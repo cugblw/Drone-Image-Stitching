@@ -1,0 +1,4 @@
+numpy
+pillow
+opencv-contrib-python = 3.4.2.16
+xmltodict
